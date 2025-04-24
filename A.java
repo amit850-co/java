@@ -50,6 +50,6 @@
     public static void main(String[] args) {
         A amit = new A();
         amit.pattern();
-        amit.patterns();
+        amit.patterns()
     }
 }
