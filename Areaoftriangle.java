@@ -9,6 +9,6 @@ public class Areaoftriangle {
         System.out.println("enter second number");
         float h=input.nextFloat();
       int  C=1/2;
-        System.out.println( C*(B*h));
+        System.out.println( C*(B*h))
     }
 }
