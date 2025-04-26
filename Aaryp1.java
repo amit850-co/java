@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 public class Aaryp1 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //
         Scanner input=new Scanner(System.in);
          int[] Aarryof={1,10,15,20};
          int num=input.nextInt();
